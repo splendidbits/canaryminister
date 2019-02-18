@@ -1,10 +1,10 @@
-**DO NOT DISCLOSE TO THE PUBLIC OR MEDIA**
+#### DO NOT DISCLOSE TO THE PUBLIC OR MEDIA 😉
 
 
 
-## the canary minister 🦉
+## the canary minister
 
-A [twoot](https://twitter.com) companion for you. 
+the [twoot](https://twitter.com) companion for you. 
 
 - Twitter app-id privacy protection.
 - Send Encrypted DMs (Direct Messages).
