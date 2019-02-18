@@ -4,7 +4,11 @@
 
 ## the canary minister
 
-A [twoot](https://twitter.com) companion for you.
+A [twoot](https://twitter.com) companion for you. 
+
+- Twitter app-id privacy protection.
+- Send Encrypted DMs (Direct Messages).
+- Some other handy things to keep you safe.
 
 
 ![canaryminister](canaryminister.png)
