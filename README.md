@@ -11,4 +11,4 @@ the [twoot](https://twitter.com) companion for you.
 - Some other handy things to keep you safe.
 
 
-![canaryminister](canaryminister.png)
+![canaryminister](screenshot.png)
