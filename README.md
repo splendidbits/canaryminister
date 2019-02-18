@@ -10,6 +10,4 @@ the [twoot](https://twitter.com) companion for you.
 - Add trusted friends by QR code, or NFC with the canary *fist-pump*.
 - Send Encrypted DMs (Direct Messages).
 - Some other handy things to keep you safe.
-
-
 ![canaryminister](screenshot.png)
