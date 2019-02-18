@@ -2,7 +2,7 @@
 
 
 
-## the canary minister
+# the canary minister 🦉
 
 the [twoot](https://twitter.com) companion for you. 
 
