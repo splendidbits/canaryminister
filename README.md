@@ -7,4 +7,4 @@ A [twoot](https://twitter.com) companion for you.
 
 
 
-![canaryminister](/Users/daniel/Desktop/canaryminister.png)
+![canaryminister](canaryminister.png)
