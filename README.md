@@ -11,3 +11,4 @@ the [twoot](https://twitter.com) companion for you.
 - Send Encrypted DMs (Direct Messages).
 - Some other handy things to keep you safe.
 ![canaryminister](screenshot.png)
+- Soon™
