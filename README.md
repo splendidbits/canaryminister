@@ -7,7 +7,7 @@
 the [twoot](https://twitter.com) companion for you. 
 
 - Twitter app-id privacy protection.
-- Add trusted friends by QR code, or NFC with the canary *fist-pump*.
+- Add trusted friends by QR code, or NFC with the canary *fist-bump*.
 - Send Encrypted DMs (Direct Messages).
 - Some other handy things to keep you safe.
 - Soon™
